@@ -10,20 +10,35 @@ async def lifespan(app:FastAPI):
 
 
 app = FastAPI()
-homework_dict = {"00/00/0000":"a string"}
+homework_dict = {}
+
 
 @app.get("/all_homework")
 def get_all_homework ():
     return homework_dict
 
 @app.post("/new-homework")
-def creat_a_new_homework(date: str, homework: str):
-    homework_dict[date] = homework
-    raise HTTPException(status_code=status.HTTP_201_CREATED,detail="homework succesfully created")
+def creat_a_new_homework(lesson: str, topic: str, deadline: str, priority: int):
+    if topic.lower() == "exam":
+        priority = 1
+    homework_id = 1
+    while f"homework_{homework_id}" in homework_dict:
+        homework_id += 1
+    homework_dict[f"homework_{homework_id}"] = {
+        "lesson": lesson,
+        "topic": topic,
+        "deadline for homework": deadline,
+        "priority(1 to 5)": priority
+    }
+    raise HTTPException(
+        status_code = status.HTTP_201_CREATED,
+        detail = "new homework succesfuly created !"
+    )
+
 
 @app.get("/homework")
-def get_one_homework(date: str):
-    homework_in = homework_dict.get(date)
+def get_one_homework(homework_id: int):
+    homework_in = homework_dict.get(f"homework_{homework_id}")
     if homework_in is None:
         raise HTTPException(
             status_code=status.HTTP_404_NOT_FOUND,
