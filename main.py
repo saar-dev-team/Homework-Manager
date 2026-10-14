@@ -1,4 +1,12 @@
 from fastapi import FastAPI,status,HTTPException
+from contextlib import asynccontextmanager
+
+
+@asynccontextmanager
+async def lifespan(app:FastAPI):
+    print("application startup")
+    yield 
+    print("application shutdown")
 
 
 app = FastAPI()
