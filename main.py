@@ -18,7 +18,11 @@ def get_all_homework ():
     return homework_dict
 
 @app.post("/new-homework")
-def creat_a_new_homework(lesson: str, topic: str, deadline: str, priority: int):
+def creat_a_new_homework(lesson: str, topic: str, deadline: str, priority: int):  
+    if not 1 <= priority <= 5:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Priority must be between 1 and 5.")
     if topic.lower() == "exam":
         priority = 1
     homework_id = 1
