@@ -40,7 +40,7 @@ def creat_a_new_homework(lesson: str, topic: str, deadline: str, priority: int):
     )
 
 
-@app.get("/homework")
+@app.get("/homework/{homework_id}")
 def get_one_homework(homework_id: int):
     homework_in = homework_dict.get(f"homework_{homework_id}")
     if homework_in is None:
