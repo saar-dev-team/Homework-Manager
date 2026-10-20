@@ -208,14 +208,14 @@ The main project is [School Manager](https://github.com/saar-dev-team/School-Man
 
 [GitHub](https://github.com/saar-dev-team)
 
-Developers:
+**Developers:**
 
 ### Sadra Hatami
 *Co-Founder*
 
 [GitHub](https://github.com/sadra-hatami)
 
-📧 [Email](mailto:sadra.hatami.1732@gmail.com)
+[Email](mailto:sadra.hatami.1732@gmail.com)
 
 ### Arashk Alizadeh Shahrivar
 *Co-Founder*
