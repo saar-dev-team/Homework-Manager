@@ -22,7 +22,6 @@ Create a homework item, list every item, and open one by id. Records stay in mem
 [![JSON](https://img.shields.io/badge/Format-JSON-003B57?style=for-the-badge)](https://www.json.org/)
 [![HTTP](https://img.shields.io/badge/HTTP-Methods-00599C?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 [![Docs](https://img.shields.io/badge/Docs-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
-[![Homework]
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)](https://opensource.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/saar-dev-team/Homework-Manager)
@@ -34,8 +33,6 @@ Create a homework item, list every item, and open one by id. Records stay in mem
 [👤 Sadra Hatami](https://github.com/sadra-hatami)
 •
 [👤 Arashk Alizadeh Shahrivar](https://github.com/AASHTheDeveLopEr)
-•
-[🏫 School Manager](https://github.com/saar-dev-team/School-Manager)
 
 </div>
 
