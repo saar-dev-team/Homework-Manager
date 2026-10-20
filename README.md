@@ -218,7 +218,7 @@ Developers:
 📧 [Email](mailto:sadra.hatami.1732@gmail.com)
 
 ### Arashk Alizadeh Shahrivar
-*Co-Founder • AASH.py*
+*Co-Founder*
 
 [GitHub](https://github.com/AASHTheDeveLopEr)
 
