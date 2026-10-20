@@ -1,1 +1,1 @@
-# homework_manager
+# Homework-Manager
