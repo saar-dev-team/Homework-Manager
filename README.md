@@ -19,11 +19,18 @@ Create a homework item, list every item, and open one by id. Records stay in mem
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI-499848?style=for-the-badge)](https://www.uvicorn.org/)
 [![REST](https://img.shields.io/badge/API-REST-2C3E50?style=for-the-badge)](https://restfulapi.net/)
+[![JSON](https://img.shields.io/badge/Format-JSON-003B57?style=for-the-badge)](https://www.json.org/)
+[![HTTP](https://img.shields.io/badge/HTTP-Methods-00599C?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+[![Docs](https://img.shields.io/badge/Docs-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
 [![Homework](https://img.shields.io/badge/Domain-Homework-8E44AD?style=for-the-badge)](#-endpoints)
 [![Priority](https://img.shields.io/badge/Priority-1%20to%205-E67E22?style=for-the-badge)](#-rules)
+[![Memory](https://img.shields.io/badge/Storage-In%20Memory-34495E?style=for-the-badge)](#-notes)
+[![School](https://img.shields.io/badge/Project-School%20Manager-1ABC9C?style=for-the-badge)](https://github.com/saar-dev-team/School-Manager)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)](https://opensource.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/saar-dev-team/Homework-Manager)
 [![Stars](https://img.shields.io/github/stars/saar-dev-team/Homework-Manager?style=for-the-badge)](https://github.com/saar-dev-team/Homework-Manager/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/saar-dev-team/Homework-Manager?style=for-the-badge)](https://github.com/saar-dev-team/Homework-Manager/commits/main)
 
 <br>
 
@@ -209,15 +216,19 @@ The main project is [School Manager](https://github.com/saar-dev-team/School-Man
 
 [GitHub](https://github.com/saar-dev-team)
 
-توسعه‌دهندگان:
+Developers:
 
-### [Sadra Hatami](https://github.com/sadra-hatami)
+### Sadra Hatami
 *Co-Founder*
+
+[GitHub](https://github.com/sadra-hatami)
 
 📧 [Email](mailto:sadra.hatami.1732@gmail.com)
 
-### [Arashk Alizadeh Shahrivar](https://github.com/AASHTheDeveLopEr)
+### Arashk Alizadeh Shahrivar
 *Co-Founder • AASH.py*
+
+[GitHub](https://github.com/AASHTheDeveLopEr)
 
 ---
 
@@ -237,6 +248,6 @@ If this service is useful as a study sample, please consider giving it a ⭐ on 
 
 <div align="center">
 
-## Designed & Developed with ❤️ by [Sadra Hatami](https://github.com/sadra-hatami) and [Arashk Alizadeh Shahrivar](https://github.com/AASHTheDeveLopEr) of [SAAR Dev Team](https://github.com/saar-dev-team)
+## Designed & Developed with ❤️ by Sadra Hatami and Arashk Alizadeh Shahrivar of SAAR Dev Team
 
 </div>
