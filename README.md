@@ -9,7 +9,7 @@ Create a homework item, list every item, and open one by id. Records stay in mem
 
 <br>
 
-# 👨‍💻 **saar-dev-team**
+# 👨‍💻 **SAAR Dev Team**
 
 ### *Sadra Hatami • Arashk Alizadeh Shahrivar*
 
@@ -63,7 +63,7 @@ Create a homework item, list every item, and open one by id. Records stay in mem
 
 It stores lesson, topic, deadline, and priority in an in-memory dictionary. A client can create an item, list every item, or fetch one by numeric id. An exam topic is forced to the highest priority.
 
-This repository is a companion to [School Manager](https://github.com/saar-dev-team/School-Manager). It holds the homework API for that project, built by **saar-dev-team**.
+This repository is a companion to [School Manager](https://github.com/saar-dev-team/School-Manager). It holds the homework API for that project, built by **SAAR Dev Team**.
 
 > **Tagline:** *A FastAPI homework service for lesson, topic, deadline, and priority.*
 
@@ -177,7 +177,7 @@ curl http://127.0.0.1:8000/homework/1
 
 - This is a supplementary repository for [School Manager](https://github.com/saar-dev-team/School-Manager).
 - Data is in memory only.
-- The MIT license is in `LICENSE`.
+- The MIT license is in [LICENSE](LICENSE).
 
 ---
 
@@ -205,27 +205,27 @@ The main project is [School Manager](https://github.com/saar-dev-team/School-Man
 
 **Team:**
 
-### saar-dev-team
+### SAAR Dev Team
 
-### Sadra Hatami
+[GitHub](https://github.com/saar-dev-team)
+
+توسعه‌دهندگان:
+
+### [Sadra Hatami](https://github.com/sadra-hatami)
 *Co-Founder*
-
-🌐 [GitHub](https://github.com/sadra-hatami)
 
 📧 [Email](mailto:sadra.hatami.1732@gmail.com)
 
-### Arashk Alizadeh Shahrivar
+### [Arashk Alizadeh Shahrivar](https://github.com/AASHTheDeveLopEr)
 *Co-Founder • AASH.py*
-
-🌐 [GitHub](https://github.com/AASHTheDeveLopEr)
 
 ---
 
 # 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **[MIT License](LICENSE)**.
 
-Copyright (c) 2026 sadra-hatami, AASH.py, and saar-dev-team
+Copyright (c) 2026 [Sadra Hatami](https://github.com/sadra-hatami), [Arashk Alizadeh Shahrivar](https://github.com/AASHTheDeveLopEr), and [SAAR Dev Team](https://github.com/saar-dev-team)
 
 ---
 
@@ -237,6 +237,6 @@ If this service is useful as a study sample, please consider giving it a ⭐ on 
 
 <div align="center">
 
-## Designed & Developed with ❤️ by **Sadra Hatami** and **Arashk Alizadeh Shahrivar** of **saar-dev-team**
+## Designed & Developed with ❤️ by [Sadra Hatami](https://github.com/sadra-hatami) and [Arashk Alizadeh Shahrivar](https://github.com/AASHTheDeveLopEr) of [SAAR Dev Team](https://github.com/saar-dev-team)
 
 </div>
