@@ -3,7 +3,7 @@
 # Homework Manager
 # 📚
 
-### A small FastAPI service for homework records
+### A FastAPI service for homework records
 
 Create a homework item, list every item, and open one by id. Records stay in memory for the current run.
 
